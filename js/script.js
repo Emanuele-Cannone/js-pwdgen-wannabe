@@ -44,8 +44,3 @@ document.getElementById('generata').innerHTML = nome;
 
 
 
-
-
-//Esempio3
-
-
