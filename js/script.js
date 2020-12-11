@@ -8,7 +8,7 @@ var nome, cognome, colorePreferito, numero;
 nome = prompt('Inserisci il tuo nome');
 cognome = prompt('Inserisci il tuo cognome');
 colorePreferito = prompt('Inserisci il tuo colore preferito');
-numero = '19'; 
+numero = 19; 
 
 
 
